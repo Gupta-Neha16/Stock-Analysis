@@ -3,6 +3,9 @@
 
 The purpose of this project is to use data from yahoo finance and leverage the yahoo finance library to showcase the market trends at the start of the Covid crisis.
 
+![Screen Shot 2021-06-15 at 8 50 46 PM](https://user-images.githubusercontent.com/29782408/122145707-5dea3100-ce1b-11eb-84d3-7c9bb8e58b7d.png)
+
+
 Obtained historical data for Microsoft with duration as maximum.
 
 The image below shows stock splits, dividends, volumne, close, low, high and open values plotted on a chart since 1988.
