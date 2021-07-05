@@ -9,6 +9,7 @@ The purpose of this project is to use data from yahoo finance and leverage the y
 Obtained historical data for Microsoft with duration as maximum.
 
 The image below shows stock splits, dividends, volumne, close, low, high and open values plotted on a chart since 1988.
+
 ![Screen Shot 2021-06-15 at 8 18 48 PM](https://user-images.githubusercontent.com/29782408/122143482-2bd6d000-ce17-11eb-86aa-4e6960a7a4fb.png)
 
 Obtained world indices from "https://finance.yahoo.com/world-indices" by grabbing the first table.
