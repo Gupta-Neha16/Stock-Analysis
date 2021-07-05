@@ -24,10 +24,13 @@ After that we were left with 7 world markets data. The data was plotted for thes
 
 The plots below show the dip in the market due to the Covid crisis. 
 
+![Screen Shot 2021-06-15 at 8 32 27 PM](https://user-images.githubusercontent.com/29782408/122144289-cdaaec80-ce18-11eb-9b88-86bf6188fd90.png)
+
+Dropping XAX from the graphs as there is large amount of data missing.
 
 ![Screen Shot 2021-06-15 at 8 37 29 PM](https://user-images.githubusercontent.com/29782408/122144650-82450e00-ce19-11eb-96da-7885c1238547.png)
 
-![Screen Shot 2021-06-15 at 8 32 27 PM](https://user-images.githubusercontent.com/29782408/122144289-cdaaec80-ce18-11eb-9b88-86bf6188fd90.png)
+
 
 
 Let's look at Dow Jones Industrial index.
