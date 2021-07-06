@@ -20,6 +20,8 @@ The data required cleaning as there was a "^" symbol with the indices. The data 
 Data for the indices were then downloaded from 2020-01-15 to 2020-04-15.
 There were many values with "NaN". Dropped the columns (indices) that had more than 10 values as NaN.
 
+<img width="720" alt="Screen Shot 2021-07-06 at 1 55 42 PM" src="https://user-images.githubusercontent.com/29782408/124652563-df087700-de61-11eb-826a-cc03f2ddaefd.png">
+
 After that we were left with 7 world markets data. The data was plotted for these world markets.
 
 The plots below show the dip in the market due to the Covid crisis. 
